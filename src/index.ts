@@ -1,1 +1,1 @@
-export { default } from './react-intl-number-format';
+export { default } from './react-intl-numberformat';
