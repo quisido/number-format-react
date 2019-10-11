@@ -5,13 +5,13 @@
 
 ## Install
 
-- `npm install react-intl-numberformat` or
-- `yarn add react-intl-numberformat`
+- `npm install react-intl-number-format` or
+- `yarn add react-intl-number-format`
 
 ## Use
 
 ```javascript
-import NumberFormat from 'react-intl-numberformat';
+import NumberFormat from 'react-intl-number-format';
 
 function MyComponent() {
   return (
