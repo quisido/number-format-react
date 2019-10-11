@@ -1,15 +1,15 @@
 {
-  "name": "package-name",
+  "name": "react-intl-number-format",
   "version": "1.0.0",
-  "author": "Charles Stover <PACKAGE-NAME@charlesstover.com>",
-  "description": "DESCRIPTION",
-  "homepage": "https://www.npmjs.com/package/PACKAGE-NAME",
+  "author": "Charles Stover <react-intl-number-format@charlesstover.com>",
+  "description": "The Intl.NumberFormat class as a React component.",
+  "homepage": "https://www.npmjs.com/package/react-intl-number-format",
   "main": "./dist/index.js",
-  "repository": "https://github.com/CharlesStover/PACKAGE-NAME",
+  "repository": "https://github.com/CharlesStover/react-intl-number-format",
   "types": "./dist/index.d.ts",
   "bugs": {
-    "email": "PACKAGE-NAME@charlesstover.com",
-    "url": "https://github.com/CharlesStover/PACKAGE-NAME/issues"
+    "email": "react-intl-number-format@charlesstover.com",
+    "url": "https://github.com/CharlesStover/react-intl-number-format/issues"
   },
   "directories": {
     "lib": "src"
@@ -28,6 +28,7 @@
   },
   "dependencies": {},
   "devDependencies": {
+    "@testing-library/react": "^9.3.0",
     "@types/jest": "^23.0.0",
     "@types/node": "^11.0.0",
     "@types/react": "^16.3.0",
@@ -51,7 +52,6 @@
     "webpack-cli": "^3.0.0"
   },
   "peerDependencies": {
-    "react": "^16.8.0",
-    "react-dom": "^16.8.0"
+    "react": "*"
   }
 }
