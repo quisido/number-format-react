@@ -1,15 +1,15 @@
 {
-  "name": "react-intl-numberformat",
+  "name": "number-format-react",
   "version": "1.0.0",
-  "author": "Charles Stover <react-intl-numberformat@charlesstover.com>",
+  "author": "Charles Stover <number-format-react@charlesstover.com>",
   "description": "The Intl.NumberFormat class as a React component.",
-  "homepage": "https://www.npmjs.com/package/react-intl-numberformat",
+  "homepage": "https://www.npmjs.com/package/number-format-react",
   "main": "./dist/index.js",
-  "repository": "https://github.com/CharlesStover/react-intl-numberformat",
+  "repository": "https://github.com/CharlesStover/number-format-react",
   "types": "./dist/index.d.ts",
   "bugs": {
-    "email": "react-intl-numberformat@charlesstover.com",
-    "url": "https://github.com/CharlesStover/react-intl-numberformat/issues"
+    "email": "number-format-react@charlesstover.com",
+    "url": "https://github.com/CharlesStover/number-format-react/issues"
   },
   "directories": {
     "lib": "src"
